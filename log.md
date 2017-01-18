@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 17, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started Magical Agriculture Mod for Minecraft.  Name may change but it's a good working name.  Got the project setup locally and started mapping out items and machines that I will need to create.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The first week or so of this challenge will be a lot more planning than expected.  My only hope is that I can get the graphic and sound files together in a timely manner for this mod.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** N/A
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
